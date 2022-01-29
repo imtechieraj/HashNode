@@ -295,3 +295,9 @@ for (let x of cars) {
 ```
 
 Start using ES6 today!!!  ❤️ 
+
+## My resent blog: 
+
+#### Array Helper Methods: Every Javascript Developer Must know ! 😯
+
+https://thisisraj.hashnode.dev/array-helper-methods-every-javascript-developer-must-know
